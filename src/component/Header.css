@@ -1,0 +1,17 @@
+.Header header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 25px 45px;
+  font-style: italic;
+  color: blue;
+  font-size: 20px;
+  background-color: beige;
+  border: 1px black solid;
+}
+
+.Header a {
+  font-style: italic;
+  color: blue;
+  font-size: 20px;
+}
