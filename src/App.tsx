@@ -4,13 +4,17 @@ import "./App.css";
 import Header from "./component/Header";
 import AdDesigner from "./component/AdDesigner";
 import Support from "./component/Support";
+import Votes from "./component/Votes";
 
 function App() {
   return (
     <div className="App">
       <Header />
-      <AdDesigner />
-      <Support />
+      <div className="MainDiv">
+        <AdDesigner />
+        <Support />
+        <Votes />
+      </div>
     </div>
   );
 }

@@ -1,11 +1,7 @@
 import "./Header.css";
 
 const Header = () => {
-  return (
-    <div className="Header">
-      <header>Ice Cream Wars</header>
-    </div>
-  );
+  return <header className="Header">Ice Cream Wars</header>;
 };
 
 export default Header;

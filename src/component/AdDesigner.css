@@ -1,16 +1,33 @@
-.AdDesign header {
+.AdDesigner {
   display: flex;
+  justify-content: center;
   align-items: center;
-  padding: 25px 45px;
+  padding: 5px 5px;
   font-style: italic;
-  color: blue;
-  font-size: 20px;
+  color: brown;
+  font-size: 30px;
   background-color: azure;
-  border: 1px black solid;
 }
 
-.AdDesign a {
-  font-style: normal;
-  color: brown;
-  font-size: 35px;
+.h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 10px;
+  font-style: italic;
+  color: blue;
+  font-size: 25px;
+  margin: 3px 3px;
+}
+
+.h2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px 5px;
+  font-style: italic;
+  color: blac;
+  font-size: 20px;
+  margin: 5px 5px;
+  box-shadow: 1px 1px;
 }

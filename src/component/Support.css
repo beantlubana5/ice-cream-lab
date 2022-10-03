@@ -1,0 +1,21 @@
+.Support header {
+  display: flex;
+  align-items: center;
+  padding: 25px 45px;
+  font-style: italic;
+  color: blue;
+  font-size: 20px;
+  background-color: azure;
+  border: 1px black solid;
+}
+
+.Support a {
+  font-style: normal;
+  color: brown;
+  font-size: 35px;
+  h1,
+  h2,
+  h3 {
+    display: inline;
+  }
+}

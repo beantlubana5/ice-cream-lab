@@ -1,0 +1,9 @@
+.Votes {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  background-color: #0e3c7e;
+}
